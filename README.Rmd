@@ -20,6 +20,8 @@ knitr::opts_chunk$set(
 * Temperatura de derretimiento según presión por profundidad
 * Porcentaje de rocas por provincias
 
+La presentación correspondiente a este tema se encuentra alojada [aquí](https://geomorfologia-master.github.io/tema-1-epistemologia-geologia-intro-procesos).
+
 Dentro de las opciones de `knitr`, en el encabezado de este archivo, es probable que encuentres el argumento `eval = F`. Antes de tejer debes cambiarlo a `eval = T`, para que evalúe los bloques de código según tus cambios.
 
 ## Asignaciones a cada estudiante
